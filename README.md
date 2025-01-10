@@ -1,17 +1,13 @@
 # primehealth
 
-A new Flutter project.
+-> Login Screen validate the users information (Email and password)
 
-## Getting Started
+-> HomeCubit fetches data from data.json and maps it to the Item model.
 
-This project is a starting point for a Flutter application.
+-> HomeScreen displays a list of items with their images and discount prices.
 
-A few resources to get you started if this is your first Flutter project:
+DetailScreen shows detailed information about a selected item.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Mock data is stored in assets/data/item.json.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# primedhealthassessment
+-> Test was writen to test the login validation 
