@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Say No to Drugs",
+    "image": "https://img.freepik.com/free-photo/tablets-pills-different-colors-with-stop-drugs-text_23-2151553079.jpg?t=st=1736499172~exp=1736502772~hmac=05235ec374c7dfac139dfbbbe525c09457b64e33fc867f070d6f15c764f89339&w=826",
+    "description": "Promote a drug-free life for a healthier tomorrow.",
+    "discountPrice": 19.99,
+    "price": 24.99,
+    "lastUpdated": "2025-01-07T10:30:00Z",
+    "time": "2 mins ago"
+  },
+  {
+    "title": "Health Is Wealth",
+    "image": "https://img.freepik.com/free-vector/medical-set-design_24877-61572.jpg?t=st=1736498608~exp=1736502208~hmac=a1035a6474029edade133184dfddc9c77d7a97db0697766904b25f24cd89c0c7&w=1380",
+    "description": "Prioritize your health and enjoy a better life.",
+    "discountPrice": 29.99,
+    "price": 39.99,
+    "lastUpdated": "2025-01-06T14:00:00Z",
+    "time": "1 hour ago"
+  },
+  {
+    "title": "Boost Your Wellness",
+    "image": "https://media.gettyimages.com/id/1349441051/photo/overhead-view-of-senior-asian-woman-feeling-sick-taking-medicines-in-hand-with-a-glass-of.jpg?s=1024x1024&w=gi&k=20&c=mQx9_yI8Gc71AyLUVjRIG2osJBh9p3m3i-DXFzmVGNo=",
+    "description": "Discover ways to enhance your mental and physical well-being.",
+    "discountPrice": 15.99,
+    "price": 20.99,
+    "lastUpdated": "2025-01-06T10:00:00Z",
+    "time": "3 hours ago"
+  },
+  {
+    "title": "Hydrate for Health",
+    "image": "https://img.freepik.com/free-vector/medical-healthcare_24877-52070.jpg?t=st=1736498852~exp=1736502452~hmac=2d838269d73dc47c1e7c6d7ce64bddef3e53ab2caa9a7303395d79790324d974&w=1060",
+    "description": "Stay hydrated for a balanced and energetic lifestyle.",
+    "discountPrice": 10.99,
+    "price": 15.99,
+    "lastUpdated": "2025-01-05T16:00:00Z",
+    "time": "Yesterday"
+  },
+  {
+    "title": "Take Your Meds",
+    "image": "https://img.freepik.com/free-photo/africa-humanitarian-aid-doctor-taking-care-patient_23-2149117860.jpg?t=st=1736498903~exp=1736502503~hmac=bd5b0ab7912db1b6b2b1c926e77c387bdf436680b0d55fa7f69f3f0e1dc689a2&w=1800",
+    "description": "Follow your medication routine for a quicker recovery.",
+    "discountPrice": 25.99,
+    "price": 30.99,
+    "lastUpdated": "2025-01-04T18:30:00Z",
+    "time": "2 days ago"
+  },
+  {
+    "title": "Fight AIDS with Care",
+    "image": "https://img.freepik.com/free-photo/hand-with-medication-dark-style_23-2151459294.jpg?t=st=1736498979~exp=1736502579~hmac=c1a6dae20ebb864f354c420c030e3b4d517bdb4dc9e55317cd9256cc48cf9fc1&w=826",
+    "description": "Support AIDS awareness and health care initiatives.",
+    "discountPrice": 14.99,
+    "price": 19.99,
+    "lastUpdated": "2025-01-03T11:00:00Z",
+    "time": "3 days ago"
+  },
+  {
+    "title": "Healing Essentials",
+    "image": "https://img.freepik.com/free-photo/band-aid-plasters-pills-bandage-syringe-marble-surface_114579-22176.jpg?t=st=1736499015~exp=1736502615~hmac=e6303b4c5501bdfaa7498fec30071b21385b01eb66c6d6e1cdc24c8804f312f7&w=1800",
+    "description": "Essentials to help you heal and recover faster.",
+    "discountPrice": 20.99,
+    "price": 25.99,
+    "lastUpdated": "2025-01-03T09:00:00Z",
+    "time": "3 days ago"
+  },
+  {
+    "title": "Natural Remedies",
+    "image": "https://img.freepik.com/premium-photo/cbd-oil-capsules-hemp-buds-white-background-organic-natural-hemp-based-cosmetic_68060-1241.jpg?w=1800",
+    "description": "Explore the power of natural and herbal remedies.",
+    "discountPrice": 18.99,
+    "price": 22.99,
+    "lastUpdated": "2025-01-02T20:00:00Z",
+    "time": "4 days ago"
+  },
+  {
+    "title": "Stay Protected",
+    "image": "https://img.freepik.com/free-photo/flat-lay-pills-jar-with-thermometer-nasal-spray-syringe_176474-1668.jpg?t=st=1736499110~exp=1736502710~hmac=1e22f19e2e86a2ef7eae168ca0dc454d9b3c7f4eb8dad372d740ba78e5a4d92b&w=1800",
+    "description": "Keep yourself safe with essential health products.",
+    "discountPrice": 30.99,
+    "price": 35.99,
+    "lastUpdated": "2025-01-01T08:00:00Z",
+    "time": "5 days ago"
+  },
+  {
+    "title": "Pharma Care Kit",
+    "image": "https://img.freepik.com/free-photo/assorted-pharmaceutical-capsules-syringes-with-serums_114579-22168.jpg?t=st=1736499141~exp=1736502741~hmac=d9d0a8798f75ef14dcf2dbcca4ca00c2d6f0dcdc3109ca5767471bf621bbec2d&w=1800",
+    "description": "Your all-in-one kit for health and hygiene.",
+    "discountPrice": 12.99,
+    "price": 16.99,
+    "lastUpdated": "2024-12-31T23:00:00Z",
+    "time": "6 days ago"
+  }
+]
