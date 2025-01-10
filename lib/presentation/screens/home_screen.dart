@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
                     width: 100,
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(10),
-                      child: Image.asset(item.image,fit: BoxFit.cover,))),
+                      child: NetworkImageUtil(networkImage: item.image))),
                   title: Text(item.title),
                   subtitle: Text("\$${item.discountPrice} (Original: \$${item.price})"),
                   onTap: () {
